@@ -1,0 +1,6 @@
+green
+red
+blue
+yellow
+magenta
+lime
